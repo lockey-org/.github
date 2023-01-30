@@ -1,2 +1,1 @@
-# .github
-This is Lockey Orgnization.
+## This is Lockey Orgnization.
